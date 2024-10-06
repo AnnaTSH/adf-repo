@@ -1,0 +1,12 @@
+{
+	"name": "Marvel DC movies",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/AnnaTSH/adf-repo/refs/heads/main/data/Marvel-DC.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
